@@ -8,6 +8,14 @@ Interactive logistics performance dashboard developed in Microsoft Power BI to a
 
 [Download the Power BI project (.pbix)](./Logistics_Performance_Dashboard_PowerBI.pbix)
 
+## Dashboard Preview
+
+### Overview
+![Logistics Dashboard Overview](./images/overview.png)
+
+### Logistics Analysis
+![Logistics Analysis Dashboard](./images/logistics-analysis.png)
+
 ## Project Overview
 
 This project demonstrates how operational logistics data can be transformed into an interactive business intelligence dashboard for monitoring order volume, order value, service performance and SLA compliance.
