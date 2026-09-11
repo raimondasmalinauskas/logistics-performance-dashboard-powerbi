@@ -16,6 +16,22 @@ Interactive logistics performance dashboard developed in Microsoft Power BI to a
 ### Logistics Analysis
 ![Logistics Analysis Dashboard](./images/logistics-analysis.png)
 
+## Project Highlights
+
+- **25,000 orders** analysed across the dataset
+- **5 distribution centres** compared
+- **6 carriers** analysed
+- **95.23% overall on-time dispatch**
+- **4.78% overall SLA breach rate**
+- Warehouse performance comparison
+- Carrier performance analysis
+- Priority and service-level analysis
+- Order volume and order value trends
+- Interactive date filtering
+- DAX measures for operational KPIs
+- Dimensional data model using fact and dimension tables
+- Power BI dashboard published as an interactive web report
+
 ## Project Overview
 
 This project demonstrates how operational logistics data can be transformed into an interactive business intelligence dashboard for monitoring order volume, order value, service performance and SLA compliance.
