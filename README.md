@@ -2,6 +2,12 @@
 
 Interactive logistics performance dashboard developed in Microsoft Power BI to analyze warehouse, carrier and order-priority performance.
 
+### 📊 Live Interactive Dashboard
+
+[Open the Logistics Performance Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmM0MWMyNGYtZjM1Ny00ZWYxLTljNjItYTkwOTEwMTBiOTZhIiwidCI6IjlhOWMwOTM4LWRjZWUtNGFlOS04ZmE1LTYyM2I0YWVkYTJkNyJ9)
+
+[Download the Power BI project (.pbix)](./Logistics_Performance_Dashboard_PowerBI.pbix)
+
 ## Project Overview
 
 This project demonstrates how operational logistics data can be transformed into an interactive business intelligence dashboard for monitoring order volume, order value, service performance and SLA compliance.
