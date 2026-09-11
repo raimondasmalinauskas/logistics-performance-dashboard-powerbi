@@ -160,6 +160,4 @@ DAX measures were developed for operational KPIs and analytical calculations.
 
 This project demonstrates the combination of logistics domain knowledge with data analytics and business intelligence skills to support operational decision-making.
 
-## Screenshots
 
-Screenshots of the dashboard will be added to this repository.
