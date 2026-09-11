@@ -109,30 +109,6 @@ The Logistics Analysis page provides deeper operational analysis through:
 | Highest Monthly Order Value | 18.8M DKK |
 | Best Value Month | May 2026 |
 
-## Key Findings
-
-### Express Orders
-
-Express orders showed significantly lower on-time dispatch performance at 56.22% compared with 95.23% overall.
-
-This identifies Express operations as an important area for further investigation.
-
-### Warehouse Performance
-
-Aalborg DC recorded the lowest on-time dispatch performance at 94.94% and the highest SLA breach rate at 5.13%.
-
-### Warehouse Workload
-
-Horsens DC handled the highest order volume with 7,053 orders while maintaining 95.24% on-time dispatch.
-
-### Carrier Performance
-
-DHL recorded the lowest on-time dispatch performance among the carriers at 94.72% and approximately 5.24% SLA breaches.
-
-### Order Value
-
-May 2026 was the highest-value month, generating approximately 18.8M DKK in order value.
-
 ## Data Model
 
 The Power BI model uses a dimensional structure consisting of:
