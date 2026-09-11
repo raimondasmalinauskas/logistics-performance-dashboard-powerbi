@@ -146,16 +146,6 @@ The Power BI model uses a dimensional structure consisting of:
 
 DAX measures were developed for operational KPIs and analytical calculations.
 
-## Tools & Technologies
-
-- Microsoft Power BI
-- DAX
-- Data Modelling
-- Power Query
-- KPI Development
-- Logistics Analytics
-- Interactive Data Visualization
-
 ## Project Purpose
 
 This project demonstrates the combination of logistics domain knowledge with data analytics and business intelligence skills to support operational decision-making.
