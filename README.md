@@ -32,6 +32,16 @@ Interactive logistics performance dashboard developed in Microsoft Power BI to a
 - Dimensional data model using fact and dimension tables
 - Power BI dashboard published as an interactive web report
 
+- ## Technology & Skills
+
+- **Power BI** — dashboard design, interactive reporting and data visualization
+- **DAX** — KPI calculations, time intelligence and business metrics
+- **Power Query** — data transformation, cleaning and type handling
+- **Data Modelling** — fact and dimension tables with relationships
+- **Dimensional Modelling** — structured warehouse-style reporting model
+- **Logistics Analytics** — warehouse, carrier, priority and SLA performance
+- **KPI Development** — order volume, order value, AOV, on-time dispatch and SLA breach analysis
+
 ## Project Overview
 
 This project demonstrates how operational logistics data can be transformed into an interactive business intelligence dashboard for monitoring order volume, order value, service performance and SLA compliance.
