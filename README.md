@@ -42,6 +42,15 @@ Interactive logistics performance dashboard developed in Microsoft Power BI to a
 - **Logistics Analytics** — warehouse, carrier, priority and SLA performance
 - **KPI Development** — order volume, order value, AOV, on-time dispatch and SLA breach analysis
 
+## Key Business Insights
+
+- **Horsens DC** handles the highest order volume and order value, making it the largest operational site in the dataset.
+- **Odense DC** achieves the strongest on-time dispatch performance at **95.72%** and the lowest SLA breach rate at **4.31%**.
+- **Aalborg DC** has the highest SLA breach rate at **5.13%** and the lowest on-time dispatch performance at **94.94%**, indicating a potential area for operational improvement.
+- **Express orders** have significantly lower on-time performance at **56.22%**, compared with **94.35%** for Priority and **99.89%** for Standard orders.
+- **DSV** has the strongest carrier on-time performance at **95.79%**, while **DHL** is lowest at **94.72%** and has the highest SLA breach rate.
+- The dashboard enables comparison of **warehouse, carrier and priority performance** to identify operational gaps and improvement opportunities.
+  
 ## Project Overview
 
 This project demonstrates how operational logistics data can be transformed into an interactive business intelligence dashboard for monitoring order volume, order value, service performance and SLA compliance.
