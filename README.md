@@ -32,7 +32,7 @@ Interactive logistics performance dashboard developed in Microsoft Power BI to a
 - Dimensional data model using fact and dimension tables
 - Power BI dashboard published as an interactive web report
 
-- ## Technology & Skills
+ ## Technology & Skills
 
 - **Power BI** — dashboard design, interactive reporting and data visualization
 - **DAX** — KPI calculations, time intelligence and business metrics
